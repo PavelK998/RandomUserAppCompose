@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RandomUserApp</string>
+    <string name="phone_number">Phone number:</string>
+    <string name="email">Email:</string>
+    <string name="date_of_birth">Date of birth:</string>
+    <string name="location">Location:</string>
+    <string name="refresh">Refresh</string>
+    <string name="cityName">City:</string>
+    <string name="StreetName">street</string>
+    <string name="postIndex">Post index:</string>
+    <string name="age">Age:</string>
+
+</resources>
