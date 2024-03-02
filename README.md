@@ -14,6 +14,7 @@ On the extended screen, you can tap on phone number, email, or location, which w
 
 ## Technical stack
 - Kotlin
+- Jetpack Compose
 - Randomuser.me
 - MVVM
 - Clean Architecture
